@@ -1,2 +1,3 @@
-# redux
-nomadCoder's 초보자를 위한 리넉스101
+# Vanilla Redux
+
+Learning Vanilla-Redux and React-Redux
